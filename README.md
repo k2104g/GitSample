@@ -1,3 +1,0 @@
-# GitSample
-Git Hubのサンプルプロジェクト
-
